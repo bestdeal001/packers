@@ -1,0 +1,306 @@
+/*	Media 768Px Start */
+@media (min-width: 768px) and (max-width: 990px) {
+	.navbar { position: relative;}
+	.navbar-toggle { display: block; background-color: #eee; margin: 18px 0px 25px 0px;}
+	.navbar-collapse { padding: 0px 0px 0px 0px; width: 260px; background-color: #fff; box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.10); border: none; position: absolute; left: 0%; top: 100%; z-index: 9999; margin: 10px 0px 0px 0px; }
+	#moverspackers-header .collapse { display: none; } #moverspackers-header .collapse.in { display: block; } .moverspackers-thumbnail { margin-bottom: 0px; }
+	.navbar-nav { margin: 0px; padding-top: 10px;} .navbar-nav > li > a:before,.navbar-nav > li > a:after { display: none; }
+	.navbar-nav .moverspackers-dropdown-menu { margin: 0px; float: left; width: 100%; position: relative; opacity: 1; visibility: visible; background-color: transparent; }
+	.navbar-nav .moverspackers-dropdown-menu {
+		-webkit-transform: translate(0px);
+		   -moz-transform: translate(0px);
+		    -ms-transform: translate(0px);
+		     -o-transform: translate(0px);
+		        transform: translate(0px);
+	}
+	.navbar .navbar-collapse { padding: 0px;}
+	.navbar-nav > li > a { float: left; width: 100%; padding: 20px 20px 22px 20px; color: #555555; line-height: 14px;}
+	.navbar-nav > li { width: 100%; float: left; }
+	.moverspackers-dropdown-menu .moverspackers-dropdown-menu { left: 0px;}
+	.navbar-nav > li { padding: 0px;}
+	.navbar-nav > li:first-child { padding-left: 0px;}
+	/* Main Grid */
+	.moverspackers-main-content .col-md-4,.moverspackers-main-content .col-md-3 { float: none; display: inline-block; vertical-align: top; margin-right: -4px; width: 50%; }
+	.moverspackers-main-content .col-md-7,.moverspackers-main-content .col-md-5 { width: 100%; float: left; margin-bottom: 30px; }
+	.col-md-12 { float: left; width: 100%; }
+	/*Content*/
+	.moverspackers-blog-option { width: 88%;}
+	.moverspackers-blog-classic-text { padding: 23px 28px 30px 30px;}
+	.moverspackers-get-quote-thumb img { top: 0px; position: relative;}
+	.moverspackers-process-list ul li { padding: 0px 40px;}
+	.moverspackers-process-list ul li::before { right: -16px;}
+	.moverspackers-fancy-title p { width: 71%;}
+	.moverspackers-main-content .moverspackers-team.moverspackers-modern-team > ul > li { width: 33.333%;}
+	.moverspackers-modern-team ul li:hover figure figcaption { padding: 55px 14px 0;}
+	.moverspackers-modern-team figure figcaption { padding: 20px 14px 0;}
+	.moverspackers-strip-info { width: 100%; text-align: center;}
+	.moverspackers-strip-info li { float: none; display: inline-block;}
+	.moverspackers-main-header { text-align: center;}
+	.moverspackers-simple-btn { margin: 13px 0 0;}
+	.moverspackers-strip-info li { margin: 0 0 11px;}
+	.slick-slide img.moverspackers-banner-thumb { display: none;}
+	.moverspackers-top-strip { padding-top: 24px;}
+	.moverspackers-services-text { padding: 24px 33px 33px;}
+	.moverspackers-footer-contact ul li { float: left; width: 33.333%;}
+	.moverspackers-footer-widget .widget { float: left; width: 50%;}
+	.moverspackers-footer-contact-text { padding: 24px 29px 25px 17px;}
+	.moverspackers-testimonialfull { background-size: cover;}
+	.moverspakers-error-wrap { background-size: calc(100%); padding: 158px 0 40px; width: 100%;}
+	.moverspakers-error-text { padding: 0 0 0 90px; width: 66%;}
+	.moverspackers-counter ul li { width: 33.333%;}
+	.moverspackers-team-list figure figcaption { padding: 110px 45px 55px;}
+	.moverspackers-partner-slider .slick-list { width: 98%;}
+	.moverspackers-prenxt-post ul li { padding: 0px 15px;}
+	.moverspackers-prenxt-post ul { margin: 0px -15px;}
+	.moverspackers-prev-post figure ~ h6 { padding: 0 0 0 93px;}
+	.moverspackers-next-post figure ~ h6 { padding: 0px 93px 0px 0px;}
+	.moverspackers-contact-form { margin: 0px;}
+	.moverspackers-contact-widget { margin: 0px 0px 80px;}
+	.moverspackers-coomingsoon form input[type="submit"] { padding: 11px 18px;}
+	.moverspackers-coomingsoon form { width: 85%;}
+	.moverspakers-faq-accordion .panel-title > a { letter-spacing: 0.8px;}
+	.moverspackers-priceplan-wrap::before { border-right: 345px solid transparent; border-top: 385px solid #272b3d;}
+	.skillst { width: 50%; padding: 0px 15px;}
+	.moverspackers-project-filterable ul li { margin: 0px 25px;}
+	.moverspackers-team-thumb { width: auto;}
+	.moverspackers-project-grid-text { padding: 0px 22px;}
+	.moverspackers-blog > ul > li { float: none; display: inline-block; margin-right: -4px; vertical-align: top; width: 50%;}
+	.moverspackers-blog-grid-text { padding: 26px 14px 30px 24px;}
+	.moverspackers-blog.moverspackers-blog-large > ul > li { width: 100%;}
+	.moverspackers-project > ul > li { float: none; display: inline-block; margin-right: -4px; vertical-align: top;}
+	.moverspackers-project-grid > ul > li { float: left; width: 50%;}
+	.banner-transparent:before { width: 100%;}
+	.moverspackers-project-list-text p { font-size: 16px;}
+	.moverspackers-main-content aside.col-md-3 { width: 100%;}
+	.moverspackers-main-content .widget { float: none; display: inline-block; margin-right: -4px; vertical-align: top; width: 50%; padding: 0px 15px;}
+	.moverspackers-main-content.moverspackers-contactfull .col-md-3 { width: 100%}
+	.moverspackers-contact-info.moverspackers-contact-widget li { float: none; display: inline-block; margin-right: -4px; vertical-align: top; width: 50%; padding: 0px 15px;}
+	.moverspackers-main-content .moverspackers-team-detail .col-md-5,.moverspackers-main-content .moverspackers-team-detail .col-md-7 { width: 50%}
+	.moverspackers-footer-one,.moverspackers-testimonialfull,.moverspackers-counter-full,.moverspackers-coomingsoon-content { background-size: cover;}
+	.moverspackers-counter-wrap i ~ .moverspackers-counter-text { padding: 0px 0px 0px 79px;}
+
+
+}
+
+/* Media 420Px Start */
+@media (max-width: 767px) {
+	.navbar { position: relative;}
+	.navbar-toggle { background-color: #eee; margin: 18px 0px 25px 0px;}
+	.navbar-collapse { padding: 0px 0px 0px 0px; width: 260px; background-color: #fff; box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.10); border: none; position: absolute; left: 0%; top: 100%; z-index: 9999; margin: 10px 0px 0px 0px; }
+	#moverspackers-header .collapse { display: none; } #moverspackers-header .collapse.in { display: block; } .moverspackers-thumbnail { margin-bottom: 0px; }
+	.navbar-nav { margin: 0px; padding-top: 10px; } .navbar-nav > li > a:before,.navbar-nav > li > a:after { display: none; }
+	.navbar-nav .moverspackers-dropdown-menu { margin: 0px; float: left; width: 100%; position: relative; opacity: 1; visibility: visible; background-color: transparent; }
+	.navbar-nav .moverspackers-dropdown-menu {
+		-webkit-transform: translate(0px);
+		   -moz-transform: translate(0px);
+		    -ms-transform: translate(0px);
+		     -o-transform: translate(0px);
+		        transform: translate(0px);
+	}
+	.navbar .navbar-collapse { padding: 0px;}
+	.navbar-nav > li > a { float: left; width: 100%; padding: 20px 20px 22px 20px; color: #555555; line-height: 14px;}
+	.navbar-nav > li { width: 100%; float: left; }
+	.moverspackers-dropdown-menu .moverspackers-dropdown-menu { left: 0px;}
+	.navbar-nav > li { padding: 0px;}
+	.navbar-nav > li:first-child { padding-left: 0px;}
+	/* Main Grid */
+	.moverspackers-main-content .col-md-4,.moverspackers-main-content .col-md-3{ float: none; display: inline-block; vertical-align: top; margin-right: -4px; width: 50%; }
+	.moverspackers-main-content .col-md-7,.moverspackers-main-content .col-md-5 { width: 100%; float: left; margin-bottom: 30px; }
+	.col-md-12 { float: left; width: 100%; }
+	/*Content*/
+	.moverspackers-banner-caption { display: none;}
+	.moverspackers-strip-info li::before { content: none;}
+	.moverspackers-strip-info { width: 100%; text-align: center;}
+	.moverspackers-strip-info li { padding: 0px 10px; margin: 0 0 10px;}
+	.logo { text-align: center;}
+	.moverspackers-strip-info li i { float: none;}
+	.moverspackers-strip-info li { float: none; display: inline-block;}
+	.moverspackers-simple-btn { margin: 15px 0px 0px;}
+	.moverspackers-fancy-title p,.moverspackers-get-quote-form .moverspackers-fancy-title p { width: 100%;}
+	.moverspackers-blog-option li { margin: 0px 20px 0px 0px;}
+	.moverspackers-blog-option li::before { right: -10px;}
+	.moverspackers-blog-option { width: 93%; padding: 9px 0 12px 15px;}
+	.moverspackers-get-quote-thumb img { position: relative; top: 0;}
+	.moverspackers-testimonial-layer p,.moverspackers-footer-copyright ul { width: 100%;}
+	.moverspackers-footer-widget .widget { float: left; width: 50%;}
+	.moverspackers-footer-contact ul li { width: 50%; display: inline-block; margin-right: -4px; vertical-align: top; float: none;}
+	.moverspackers-footer-copyright { text-align: center;}
+	.moverspackers-footer-copyright p,.moverspackers-footer-copyright ul li { display: inline-block; float: none;}
+	.moverspackers-services-text { padding: 24px 28px 33px;}
+	.moverspackers-process-list ul li { padding: 0px 35px;}
+	.moverspackers-footer-contact-text { padding: 19px 16px 25px 20px;}
+	.moverspakers-error-wrap { width: 100%; margin: 0px;}
+	.moverspakers-error-text { width: 100%; padding: 0px;}
+	.moverspakers-error-wrap { background-image: none;}
+	.moverspackers-counter ul li { width: 50%;}
+	.moverspackers-team-list figure figcaption { padding: 59px 36px 55px;}
+	.moverspackers-counter-wrap { width: 84%;}
+	.moverspackers-liststyle-two li { letter-spacing: 0.1px;}
+	.moverspackers-tags,.moverspackers-blog-social { width: 100%;}
+	.moverspackers-tags { margin: 0px 0px 20px;}
+	.moverspackers-blog-social,.moverspackers-post-tags { text-align: center;}
+	.moverspackers-blog-social ul,.moverspackers-tags span,.moverspackers-tags a { float: none; display: inline-block;}
+	.moverspackers-prev-post figure ~ h6 { padding: 0 0 0 70px;}
+	.moverspackers-next-post figure ~ h6 { padding: 0 70px 0 0;}
+	.moverspackers-prenxt-post ul li { margin: 0px 0px 30px;}
+	.comment-list .children { padding-left: 0px;}
+	.moverspackers-prenxt-post ul li { padding: 0px 15px;}
+	.moverspackers-prenxt-post ul { margin: 0px -15px;}
+	.moverspackers-twitter-feed { background-size: cover;}
+	.moverspackers-blog-modern figure figcaption { padding: 0 17px 32px;}
+	.moverspackers-blog-modern figure figcaption p { margin: 0px 0px 8px;}
+	.moverspackers-blog-grid-text { padding: 26px 18px 30px;}
+	.moverspackers-blog-grid .moverspackers-blog-option li { margin: 0px 14px 0px 0px;}
+	.moverspackers-blog-grid .moverspackers-blog-option li::before { right: -7px;}
+	.moverspackers-blog-large .moverspackers-blog-option li:last-child { margin: 0px 0px 0px 0px;}
+	.moverspackers-blog-large .moverspackers-blog-option li { margin: 0 22px 0 0;}
+	.moverspackers-blog-large .moverspackers-blog-option li::before { right: -11px;}
+	.moverspackers-contact-form { margin: 0px;}
+	.moverspackers-contact-widget { margin: 0px 0px 80px;}
+	.moverspackers-coomingsoon form,.moverspackers-project-thumb { width: 100%;}
+	.moverspackers-countdown .countdown-section { margin: 0 42px 50px 0;}
+	.moverspackers-fancy-title h2 {line-height: 1;}
+	.moverspackers-quote-form ul li { width: 50%;}
+	.moverspackers-quote-form ul li:last-child { width: 100%;}
+	.moverspackers-priceplan-wrap::before { border-right: 270px solid transparent; border-top: 310px solid #272b3d;}
+	.moverspackers-priceplan-heading h2 { margin: 0px;}
+	.moverspackers-priceplan-list { padding: 0px 30px 50px;}
+	.moverspackers-priceplan-wrap { overflow: hidden;}
+	.moverspackers-project-info { position: relative; top: 0px; float: left; width: 100%;}
+	.moverspackers-project-grid-text h5 { letter-spacing: 0.3px;}
+	.moverspackers-project-grid-text span,.moverspackers-project-grid-text p { margin: 0px 0px 8px;}
+	.moverspackers-project-filterable ul li { margin: 0px 24px;}
+	.moverspackers-filtrable-grid .moverspackers-project-grid-text h5 { font-size: 16px;}
+	.moverspackers-project-grid-text p { font-size: 13px;}
+	.moverspackers-filtrable-grid .moverspackers-project-grid-text span { display: none;}
+	.moverspackers-project-list figure { width: 100%;}
+	.moverspackers-project-list-wrap { padding: 30px;}
+	.moverspackers-project-list figure ~ .moverspackers-project-list-text { float: left; margin: 0px;}
+	.moverspackers-project-list-text { padding: 11px 0px 0px;}
+	.moverspackers-project-list ul li:hover figure a::before { height: 100%;}
+	.moverspackers-project-list figure a::before { width: 100%; height: 0px;}
+	.moverspackers-project-list figure a i { left: 50%; top: 0px;}
+	.moverspackers-project-list ul li:hover figure a i { top: 50%;}
+	.moverspackers-project > ul > li,.moverspackers-project-info ul li { width: 50%;}
+	.moverspackers-project > ul > li { float: none; display: inline-block; margin-right: -4px; vertical-align: top;}
+	.moverspackers-project-grid-text { padding: 0px 22px;}
+	.moverspackers-blog > ul > li { float: none; display: inline-block; margin-right: -4px; vertical-align: top; width: 50%;}
+	.moverspackers-blog-classic-text { padding: 23px 16px 30px;}
+	.moverspackers-blog-classic-text h5 { letter-spacing: 1px;}
+	.moverspackers-blog-grid-text { padding: 26px 14px 30px 24px;}
+	.moverspackers-blog.moverspackers-blog-large > ul > li,.moverspackers-project-thumb img { width: 100%;}
+	.col-md-4.widget.widget_links { margin: 0px 0px 80px;}
+	.moverspackers-main-content aside.col-md-3 { width: 100%;}
+	.moverspackers-main-content .widget { float: none; display: inline-block; margin-right: -4px; vertical-align: top; width: 50%; padding: 0px 15px;}
+	.moverspackers-main-content.moverspackers-contactfull .col-md-3 { width: 100%}
+	.moverspackers-contact-info.moverspackers-contact-widget li { float: none; display: inline-block; margin-right: -4px; vertical-align: top; width: 50%; padding: 0px 15px;}
+	.moverspackers-contact-info-text { padding: 13px 59px 16px 30px;}
+	.widget-popular-post-wrap,.widget_cetagories_wrap { border: none; padding: 0px;}
+	.moverspackers-footer-one,.moverspackers-testimonialfull,.moverspackers-counter-full,.moverspackers-coomingsoon-content { background-size: cover;}
+	.moverspackers-countdown .countdown-section:last-child { margin-bottom: 50px;}
+}
+
+/* Media 300Px Start */
+@media (max-width: 480px) {
+	/*main grid*/
+	.moverspackers-main-content .col-md-4,.moverspackers-main-content .col-md-3,.moverspackers-main-content .col-md-6 { margin-right: 0px; width: 100%; }
+	/*main grid*/
+	.moverspackers-strip-info li { padding: 0px 5px;}
+	.moverspackers-services-text { padding: 24px 36px 33px;}
+	.moverspackers-blog-option { width: 91%; padding: 9px 0 12px 20px;}
+	.moverspackers-get-quote-form ul li { width: 100%;}
+	.moverspackers-process-list ul li::before { content: none;}
+	.moverspackers-modern-team ul li:hover figure figcaption { padding: 110px 27px 0px;}
+	.moverspackers-footer-contact ul li,.moverspackers-project-info ul li { width: 100%;}
+	.moverspackers-process-list ul li { padding: 0px 68px;}
+	.moverspackers-footer-contact-text { padding: 19px 94px 25px 39px;}
+	.moverspackers-footer-widget .widget,.moverspackers-liststyle-two li,.moverspackers-counter ul li { width: 100%;}
+	.moverspackers-aboutus-thumb figure { width: 72%; margin: 0px;}
+	.moverspackers-partner-slider-layer a::before { content: none;}
+	.moverspackers-twitter-feed i ~ .moverspackers-twitter-slider { float: left; width: 100%; padding: 20px 0px 0px;}
+	.moverspackers-liststyle-two li { letter-spacing: 0.5px;}
+	.comment-respond form p,.moverspackers-prenxt-post ul li { width: 100%;}
+	.moverspackers-blog-modern figure figcaption { padding: 0 30px 32px;}
+	.moverspackers-blog-grid .moverspackers-blog-option li { margin: 0 18px 0 0;}
+	.moverspackers-blog-modern figure figcaption p { margin: 0px 0px 13px;}
+	.moverspackers-blog-grid .moverspackers-blog-option li::before { right: -9px;}
+	.moverspackers-blog-large .moverspackers-blog-option li::before { right: -7px;}
+	.moverspackers-blog-large .moverspackers-blog-option li { margin: 0px 12px 0px 0px;}
+	.moverspackers-blog-large-text { padding: 26px 18px 30px;}
+	.moverspackers-contact-form ul li{ width: 100%;}
+	.moverspackers-countdown .countdown-section { margin: 0 35px 50px 0;}
+	.moverspackers-coomingsoon h3 { font-size: 78px;}
+	.moverspackers-quote-form ul li,.moverspackers-quote-form ul li.full-width { width: 100%;}
+	.moverspackers-priceplan-wrap::before { border-right: 288px solid transparent; border-top: 330px solid #272b3d;}
+	.moverspackers-priceplan-heading h2 { margin: 0px 0px 30px;}
+	.moverspackers-priceplan-list { padding: 0 60px 50px;}
+	.moverspackers-project-filterable ul li { margin: 0 22px;}
+	.moverspackers-filtrable-grid .moverspackers-project-grid-text h5 { font-size: 16px;}
+	.moverspackers-filtrable-grid .moverspackers-project-grid-text p { font-size: 11px;}
+	.moverspackers-filtrable-grid .moverspackers-project-grid-text span { display: block;}
+	.moverspackers-project > ul > li { width: 100%;}
+	.moverspackers-blog > ul > li { width: 100%;}
+	.moverspackers-blog-classic-text { padding: 23px 30px 30px;}
+	.moverspackers-twitter-feed i::after {content: none;}
+	.moverspackers-blog-grid-text { padding: 26px 18px 30px 30px;}
+	.moverspackers-subheader { background-size: cover;}
+	.col-md-4.widget.widget_links { margin: 0px 0px 70px;}
+	.moverspackers-prenxt-post ul li::before { content: none;}
+	.moverspackers-main-content .widget { width: 100%; padding: 0px;width: 95%;margin-left: 2%;}
+	.moverspackers-contact-info.moverspackers-contact-widget li { width: 100%; padding: 0px;}
+	.moverspackers-contact-info-text { padding: 13px 70px 16px 30px;}
+	.comment-list figure ~ .text-holder { float: left; margin: 0px; padding: 20px 0px 18px 0px;}
+	.moverspackers-team-list figure figcaption { padding: 75px 36px 55px;}
+
+
+}
+
+/* Media 940Px Start */
+@media screen and (min-width: 991px) and (max-width: 1054px) {
+	.moverspackers-strip-info li { padding: 0px 15px;}
+	.navbar-nav > li:first-child { padding-left: 0px;}
+	.navbar-nav > li { padding: 0px 24px;}
+	.slick-slide img.moverspackers-banner-thumb { display: none;}
+	.moverspackers-services-text { padding: 24px 40px 33px;}
+	.moverspackers-blog-option li { margin: 0px 24px 0px 0px;}
+	.moverspackers-blog-option { padding: 9px 20px 12px; width: 94%;}
+	.moverspackers-blog-option li::before { right: -12px;}
+	.moverspackers-blog-classic-text { padding: 23px 24px 30px;}
+	.moverspackers-get-quote-form .moverspackers-fancy-title p { width: 85%;}
+	.moverspackers-process-list ul li { padding: 0 43px;}
+	.moverspackers-process-list ul li::before { right: -20px;}
+	.moverspackers-modern-team ul li:hover figure figcaption { padding: 48px 12px 0;}
+	.moverspackers-modern-team figure figcaption { padding: 20px 12px 0;}
+	.moverspackers-testimonialfull { background-size: cover;}
+	.moverspackers-footer-contact-text { padding: 19px 78px 25px 39px;}
+	.moverspackers-dropdown-menu { width: 171px;}
+	.moverspackers-aboutus-thumb figure { width: 272px; margin: 0 0 -21px;}
+	.moverspackers-counter-wrap { width: 81%;}
+	.moverspackers-team-list figure figcaption { padding: 20px 29px 55px;}
+	.moverspackers-prev-post figure ~ h6 { padding: 0 0 0 93px;}
+	.moverspackers-next-post figure ~ h6 { padding: 0px 93px 0px 0px;}
+	.moverspackers-blog-modern figure figcaption { padding: 0 11px 11px; max-height: 60px;}
+	.moverspackers-blog-modern figure figcaption p { margin: 0px 0px 5px;}
+	.moverspackers-blog-modern figure figcaption h5 { letter-spacing: 0.8px;}
+	.moverspackers-blog-grid-text { padding: 26px 18px 30px;}
+	.moverspackers-blog-grid .moverspackers-blog-option li { margin: 0px 25px 0px 0px;}
+	.moverspackers-blog-grid .moverspackers-blog-option li::before { right: -12px;}
+	.moverspackers-contact-info-text { padding: 13px 40px 16px 15px;}
+	.moverspackers-coomingsoon form { width: 65%;}
+	.moverspackers-priceplan-wrap::before { border-right: 292px solid transparent; border-top: 324px solid #272b3d;}
+	.moverspackers-priceplan-heading h2 { margin: 0px 0px 0px 20px;}
+	.moverspackers-project-grid-text span,.moverspackers-project-grid-text p { margin: 0px 0px 8px;}
+	.moverspackers-filtrable-grid .moverspackers-project-grid-text h5 { font-size: 16px;}
+	.moverspackers-project-list figure { width: 203px;}
+	.moverspackers-project-list figure ~ .moverspackers-project-list-text { margin: 0 0 0 203px;}
+	.moverspackers-liststyle-one li { letter-spacing: 0.6px;}
+	.moverspackers-project-grid-text { padding: 0px 22px;}
+	.moverspackers-blog-grid-text h5 { letter-spacing: 0.7px;}
+	.moverspackers-dropdown-menu li a { padding: 13px 0 13px 15px;}
+	.banner-transparent::before { width: 70%;}
+	.widget-popular-post-wrap,.widget_cetagories_wrap { border: none; padding: 0px;}
+	.moverspackers-blog > ul > li { float: none; display: inline-block; margin-right: -4px; vertical-align: top;}
+	.moverspackers-project > ul > li { float: none; display: inline-block; margin-right: -4px; vertical-align: top;}
+	.moverspackers-footer-one { background-size: cover;}
+	.moverspackers-banner-text { width: 100%;}
+}
